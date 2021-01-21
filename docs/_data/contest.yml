@@ -1,0 +1,11 @@
+# data for contest information
+year: 2020 # contest year
+
+date:
+    regular: February 6, 2021 # regular registration deadline
+    late: February 20, 2021 # late registration deadline
+    practice: March 6, 2021
+    contest: March 6, 2021
+
+# registration fees for different countries participating in the region
+fees:
