@@ -1,19 +1,18 @@
 # Site settings
-title: RMC-NA ICPC | Rocky Mountain Regional Programming Contest
-description: Rocky Mountain Regional Collegiate Programming Contest
-logo: "/img/think-create-solve-white.svg"
-logotext: "Rocky Mountain ICPC"
-logourl: "#"
+title: NE-NA ICPC | Northeast North America Regional Programming Contest
+description: Northeast North America Regional Collegiate Programming Contest
+logo: '/img/think-create-solve-white.svg'
+logotext: 'Northeast North America ICPC'
+logourl: '#'
 
 # Banner | rocky.icpc.io
-banner: 
+banner:
   bg-img: /img/NorthAmerica.png
   image: /img/icpc-regional-header-rocky.png #/img/mountains.png #banner image on left side
-  title: Rocky Mountain Regional Contest (RMC)
+  title: Northeast North America Regional Contest (NENA)
   title2: A North American Regional
   description: International Collegiate Programming Contest (ICPC)
   contest_date: March 6, 2021
-
 
 # Contact form
 api_token: # Enter API token here
@@ -26,13 +25,12 @@ sponsorship_contact:
 
 # Social settings
 facebook:
-twitter: 
-instagram: 
+twitter:
+instagram:
 
 # Footer
-copyright: Rocky Mountain Regional ICPC
+copyright: Northeast North America Regional ICPC
 
 # Theme Settings
-analytics: 
+analytics:
 google_verification:
-

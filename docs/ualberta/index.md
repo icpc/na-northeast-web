@@ -1,4 +1,4 @@
-# Rocky Mountain Regional ICPC Host Site
+# Northeast North America Regional ICPC Host Site
 
 ## University of Alberta
 
@@ -46,8 +46,8 @@ All contest activities will be hosted at contest location. See above for locatio
 | 12:30-1:00 |     | Coaches meeting                       |
 | 3:15-3:45  |     | Debriefing (if applicable)            |
 | 5:15-7:00  |     | Banquet, results announcement         |
-|            |     |   and solution discussion at the      |
-|            |     |   Faculty Lounge (address below)      |
+|            |     | and solution discussion at the        |
+|            |     | Faculty Lounge (address below)        |
 
 ## BANQUET
 
@@ -68,7 +68,6 @@ The contest runs from 10:00 AM to 3:00 PM, and is sometimes slightly extended fo
 
 See [here](https://webdocs.cs.ualberta.ca/~contest/RMRC2019/regional.pdf) for a pamphlet that includes the machines available on site, a summary of the editors and compilers/interpreters that will be available.
 
-
 ## KATTIS ACCOUNT
 
 Create an account (at least for one member per team) on open.kattis.com and remember your password.
@@ -88,4 +87,4 @@ If you have special dietary needs, please let us know as soon as possible by ema
 
 ## CONTACT INFORMATION
 
--   Zachary Friggstad - [zacharyf@ualberta.ca](mailto:zacharyf@ualberta.ca)
+- Zachary Friggstad - [zacharyf@ualberta.ca](mailto:zacharyf@ualberta.ca)

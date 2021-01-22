@@ -1,4 +1,4 @@
-# Rocky Mountain Regional ICPC Host Site
+# Northeast North America Regional ICPC Host Site
 
 # Brigham Young University (BYU)
 
@@ -18,7 +18,7 @@ The contest will be held in the Talmage Math and Computing Building (abbreviated
 
 ### PARKING
 
-Detailed maps of parking lots are available [here](https://map.byu.edu).  There is also a visitor lot near the Museum of Art (the "MOA" on the interactive campus map) that is free on weekdays.  Parking over much of campus is free after 7 PM on weekdays and free all-day on weekends.  The closest lot to the Talmage Building is Lot 16A (it is just NW of the building itself and accessible from Campus Drive).
+Detailed maps of parking lots are available [here](https://map.byu.edu). There is also a visitor lot near the Museum of Art (the "MOA" on the interactive campus map) that is free on weekdays. Parking over much of campus is free after 7 PM on weekdays and free all-day on weekends. The closest lot to the Talmage Building is Lot 16A (it is just NW of the building itself and accessible from Campus Drive).
 
 ## CHECK-IN TIME AND LOCATION
 
@@ -99,11 +99,11 @@ If you have special dietary needs, please let us know. We will do our best to me
 ### Menu
 
 - Friday:
-    - Banquet: Taco Bar, Sodas
+  - Banquet: Taco Bar, Sodas
 - Saturday:
-    -  Breakfast: Bagels, Fruit, Juice / Chocolate Milk
-    -  Lunch: Pizza, Sodas
-    -  Dinner: On your own after the contest
+  - Breakfast: Bagels, Fruit, Juice / Chocolate Milk
+  - Lunch: Pizza, Sodas
+  - Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
 
