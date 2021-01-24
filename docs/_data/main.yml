@@ -5,10 +5,10 @@ logo: '/img/think-create-solve-white.svg'
 logotext: 'Northeast North America ICPC'
 logourl: '#'
 
-# Banner | rocky.icpc.io
+# Banner | nena.icpc.io
 banner:
   bg-img: /img/NorthAmerica.png
-  image: /img/icpc-regional-header-rocky.png #/img/mountains.png #banner image on left side
+  image: /img/icpc-regional-header-nena.png #/img/mountains.png #banner image on left side
   title: Northeast North America Regional Contest (NENA)
   title2: A North American Regional
   description: International Collegiate Programming Contest (ICPC)
