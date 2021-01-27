@@ -1,4 +1,4 @@
-# Rocky Mountain Regional ICPC Host Site
+# Northeast North America Regional ICPC Host Site
 
 ## Colorado School of Mines
 
@@ -94,5 +94,5 @@ Dinner: On your own after the contest
 
 ## CONTACT INFORMATION
 
--   Karl Castleton - [kcastlet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
--   Ram Basnet - [rbasnet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
+- Karl Castleton - [kcastlet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)
+- Ram Basnet - [rbasnet@coloradomesa.edu](mailto:kcastlet@coloradomesa.edu)

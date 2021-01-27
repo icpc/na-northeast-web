@@ -1,4 +1,4 @@
-# Rocky Mountain Regional ICPC Host Site
+# Northeast North America Regional ICPC Host Site
 
 ## University of Arizona
 
@@ -26,9 +26,9 @@ TBD
 
 ## Friday, October 25
 
-| Time         |     | Activity                      |
-| ------------ | --- | ----------------------------- |
-| 7:30-9:00 PM |     | Official practice time        |
+| Time         |     | Activity               |
+| ------------ | --- | ---------------------- |
+| 7:30-9:00 PM |     | Official practice time |
 
 ## Saturday, October 26
 
@@ -61,4 +61,4 @@ TBD
 
 ## CONTACT INFORMATION
 
--   Ben Dicken [bddicken@email.arizona.edu](mailto:bddicken@email.arizona.edu)
+- Ben Dicken [bddicken@email.arizona.edu](mailto:bddicken@email.arizona.edu)
