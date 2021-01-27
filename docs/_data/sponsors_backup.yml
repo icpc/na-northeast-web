@@ -10,14 +10,7 @@ sponsors:
     url: https://icpc.foundation/
     logot_alt: ICPC Foundation
 
-  - name: ACM Denver Chapter
-    logo: acm-denver.svg
-    url: https://www.acm.org/
-    logot_alt: ACM Denver
-
   - name: Be a Sponsor
     logo: small2.jpg
     url: yourcompany.com
     logo_alt: Company Logo
-
-
