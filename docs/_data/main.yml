@@ -19,9 +19,9 @@ api_token: # Enter API token here
 
 # Contact info
 sponsorship_contact:
-  name: Ram Basnet
-  title: Event Coordinator
-  email: rbasnet@coloradomesa.edu
+  name: Ivona Bezakova
+  title: Director
+  email: icpc@cs.rit.edu
 
 # Social settings
 facebook:
