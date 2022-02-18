@@ -60,14 +60,14 @@ title: NENA Communications
 - Access of local materials (local code, local pdfs, and similar) is
   allowed. However, please be aware that this will change in later
   rounds of the contest so if you want to simulate the environment of
-  those rounds to prepare for them, check the 
-  [https://icpc.global/worldfinals/rules](Computing Environment).
+  those rounds to prepare for them, check the [Computing Environment] 
+  (https://icpc.global/worldfinals/rules).
 
 - As announced earlier for NENA this year: An unlimited number of
   teams per university, up to three (eligible) contestants per team,
   one computer (and one keyboard) per team. Please check the
   eligibility of your contestants
-  [https://icpc.global/regionals/rules](here). Also note that for atypical
-  situations it is possible to petition for eligibility - in that
-  case, please start the process asap.
+  [here](https://icpc.global/regionals/rules). Also note that
+  for atypical situations it is possible to petition for eligibility -
+  in that case, please start the process asap.
 
