@@ -1,11 +1,11 @@
 # data for contest information
-year: 2021 # contest year
+year: 2022 # contest year
 
 date:
-  regular: February 10, 2022 # regular registration deadline
-  late: February 27, 2022 # late registration deadline
-  practice: March 1, 6:00 PM EST
-  contest: March 5, 2:00 PM EST
+  regular: February 3, 2022 # regular registration deadline
+  late: February 17, 2022 # late registration deadline
+  practice: February 23 (tentative)
+  contest: February 25, 2:00 PM EST
 
 # registration fees for different countries participating in the region
-fees:
+fees: TBD
