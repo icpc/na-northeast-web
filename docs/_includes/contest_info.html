@@ -83,7 +83,7 @@
         {% for fee in site.data.contest.fees %}
         <div class="col-sm-6">
           <h3>{{ fee.country }}</h3>
-          <h4>Regular Fee: {{ fee.regular }} </h3>
+          <h4>Regular Fee: {{ site.data.contest.fee.regular }} </h3>
             {% if fee.check %}
             <div class="card">
               <div class="card-body">
