@@ -79,13 +79,11 @@
     <div class="row">
       <div class="col-sm-12">
         <h3 class="blackText">Fees & Number of Teams per University:</h3>
-        <p>Fees TBD</p>
         <p>Number of teams per university this year may be limited as required by the sites, but we will aim for at least three teams per unversity to be allowed.</p>
         {% for fee in site.data.contest.fees %}
         <div class="col-sm-6">
           <h3>{{ fee.country }}</h3>
           <h4>Regular Fee: {{ fee.regular }} </h3>
-            <h4>Late Fee: {{ fee.late }} </h4>
             {% if fee.check %}
             <div class="card">
               <div class="card-body">

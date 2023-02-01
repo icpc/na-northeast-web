@@ -8,4 +8,6 @@ date:
   contest: February 25, 11:00 AM EST
 
 # registration fees for different countries participating in the region
-fees: US$100
+fees: 
+     regular: US$100
+     
