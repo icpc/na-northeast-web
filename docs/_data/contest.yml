@@ -9,5 +9,5 @@ date:
 
 # registration fees for different countries participating in the region
 fees:
-  regular: US$100
-     
+ - country: All schools
+   regular: US$100
